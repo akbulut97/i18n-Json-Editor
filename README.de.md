@@ -75,4 +75,4 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 
 ---
 
-Mit ❤️ für die Entwicklergemeinschaft gemacht
+Mit AI für die Entwicklergemeinschaft gemacht
