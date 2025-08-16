@@ -75,4 +75,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ---
 
-Hecho con ❤️ para la comunidad de desarrolladores
+Hecho con AI para la comunidad de desarrolladores
