@@ -75,4 +75,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ---
 
-Geliştirici topluluğu için ❤️ ile yapıldı
+Geliştirici topluluğu için AI ile yapıldı
