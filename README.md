@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ for the developer community
+Made with AI for the developer community
